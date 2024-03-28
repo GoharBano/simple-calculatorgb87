@@ -1,0 +1,19 @@
+{
+  "name": "gb87cal1",
+  "version": "1.0.0",
+  "description": "Calculator by Command Prompt with VS Code Typescript & Inquirer Package",
+  "main": "index.js",
+  "type": "module",
+  "bin" : "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gohar Bano",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
